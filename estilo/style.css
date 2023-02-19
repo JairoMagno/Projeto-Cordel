@@ -60,7 +60,7 @@ div > p{
 #p2{
     background-image: url('../imagens/background001.jpg');
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: center center;
     background-size: cover;
     background-attachment: fixed;
     box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.473);
